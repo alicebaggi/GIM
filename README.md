@@ -37,7 +37,7 @@ Infine, attraverso la frase "dovremmo di nuovo mangiare dell’albero della cono
 
 ## Esercizio 3B
 - [Orologio Analogico](https://alicebaggi.github.io/GIM/Esercizio_3B/orologio_analogico/index.html)
-- [Orologio Analogico Arcobalento](https://alicebaggi.github.io/GIM/Esercizio_3B/orologio_analogico_arcobaleno/index.html)
+- [Orologio Analogico Arcobaleno](https://alicebaggi.github.io/GIM/Esercizio_3B/orologio_analogico_arcobaleno/index.html)
 - [Orologio Analogico Romano](https://alicebaggi.github.io/GIM/Esercizio_3B/orologio_analogico_romano/index.html)
 - [Orologio Digitale](https://alicebaggi.github.io/GIM/Esercizio_3B/orologio_digitale/index.html)
 
