@@ -26,7 +26,7 @@ Infine, attraverso la frase "dovremmo di nuovo mangiare dell’albero della cono
 (uso di LLM per migliorare la scrittura del testo)
 
 ## Esercizio 2
-- [Parallasse](https://alicebaggi.github.io/GIM/Esercizio_2/parallasse.html)
+- [Parallasse Interattivo](https://alicebaggi.github.io/GIM/Esercizio_2/parallasse.html)
 - [Parallasse Animato](https://alicebaggi.github.io/GIM/Esercizio_2/parallasse_animato.html)
 
 ## Esercizio 3A
