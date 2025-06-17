@@ -27,6 +27,7 @@ Infine, attraverso la frase "dovremmo di nuovo mangiare dell’albero della cono
 
 ## Esercizio 2
 - [Parallasse](https://alicebaggi.github.io/GIM/Esercizio_2/parallasse.html)
+- [Parallasse Animato](https://alicebaggi.github.io/GIM/Esercizio_2/parallasse_animato.html)
 
 ## Esercizio 3A
 - [Neve](https://alicebaggi.github.io/GIM/Esercizio_3A/neve/index.html)
